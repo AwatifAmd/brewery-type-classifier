@@ -56,5 +56,5 @@ actually distinguishes a "large" brewery from a "micro" one.
 
 ## Live deployed dashboard
 
-URL: _fill in after deployment_
+URL: https://brewery-type-classifier.streamlit.app/
 GitHub repo: https://github.com/AwatifAmd/brewery-type-classifier
